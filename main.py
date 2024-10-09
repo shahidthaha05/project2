@@ -1,3 +1,13 @@
+from admin import *
+from log import *
+from user import *
+
+
+
+veh=[]
+users=[]
+
+
 while True:
     print('''
     1.register
