@@ -1,11 +1,10 @@
 from admin import *
 from log import *
 from user import *
+from list import *
 
 
 
-veh=[]
-users=[]
 
 
 while True:

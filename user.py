@@ -1,5 +1,6 @@
-veh=[]
-users=[]
+from admin import *
+from log import *
+from list import *
 
 def view_user():
     for i in users:

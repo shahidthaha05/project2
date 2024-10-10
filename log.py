@@ -1,12 +1,13 @@
+from admin import *
+from user import *
+from list import *
 
-veh=[]
-users=[]
 
 def register():
     if len(users)==0:
         id=1
     else:
-        id=user[-1]['id']+1
+        id=users[-1]['id']+1
     
 
     email=str(input("enter the email :"))

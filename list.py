@@ -1,0 +1,2 @@
+veh=[{'name': 'x5', 'id': 101, 'brand': 'bmw', 'model': 2020, 'fueltype': 'pretol', 'mileage': 20, 'insurance': 10, 'stock': 8}]
+users=[{'name': 'shahid', 'id': 1, 'email': 'sha@', 'phone': 9876543210, 'veh': [101], 'username': 'sha@', 'password': 'shaa'}]

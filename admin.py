@@ -1,5 +1,7 @@
-veh=[]
-users=[]
+from log import *
+from user import *
+from list import *
+
 
 def add_veh():
     if len(veh)==0:
