@@ -5,8 +5,6 @@ from list import *
 
 
 
-
-
 while True:
     print('''
     1.register

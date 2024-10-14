@@ -52,3 +52,10 @@ def delete():
             veh.remove(i)
     if f==0:
         print('invalid id')
+
+def view_user():
+    for i in users:
+        print('name',i['name'])
+        print('id',i['id'])
+        print('email',i['email'])
+        print('phone',i['phone'])

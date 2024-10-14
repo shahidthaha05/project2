@@ -2,12 +2,7 @@ from admin import *
 from log import *
 from list import *
 
-def view_user():
-    for i in users:
-        print('name',i['name'])
-        print('id',i['id'])
-        print('email',i['email'])
-        print('phone',i['phone'])
+
 
 def view_profile(users):
     print(users)
